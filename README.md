@@ -31,14 +31,6 @@ They are the same Strings
 * Java
 * Scanner class for user input
 
-## 📂 Project Structure
-
-java-string-operations
-│
-├── Concedination.java
-├── Comparition.java
-└── README.md
-
 
 ## 🎯 Purpose
 
