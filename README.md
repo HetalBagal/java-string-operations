@@ -33,9 +33,9 @@ They are the same Strings
 ## 📂 Project Structure
 
 java-string-operations
-│
-├── Concedination.java
-├── Comparition.java
+Concedination.java
+Comparition.java
+
 
 ## 🎯 Purpose
 
