@@ -15,6 +15,7 @@ Enter the First Name: Hetal
 Enter the Last Name: Bagal
 The FullName is: Hetal Bagal
 
+
 ### 2. String Comparison
 
 This program compares two strings entered by the user using the `equals()` method.
@@ -33,8 +34,10 @@ They are the same Strings
 ## 📂 Project Structure
 
 java-string-operations
-Concedination.java
-Comparition.java
+│
+├── Concedination.java
+├── Comparition.java
+└── README.md
 
 
 ## 🎯 Purpose
